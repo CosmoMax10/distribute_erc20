@@ -38,3 +38,4 @@ npm run dev
 * You need to get a websocket via alachemy.
 * You need to have your own ERC20 address, ABI and your wallet's private key.
 
+
